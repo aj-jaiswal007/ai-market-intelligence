@@ -1,6 +1,6 @@
-def main():
-    print("Hello from ai-market-intelligence!")
+from fastapi import FastAPI
+from app.api.routes.health import health_router
 
+app = FastAPI(title="AI Market intelligence Platform Service", version="0.1.0")
 
-if __name__ == "__main__":
-    main()
+app.include_router(health_router)
