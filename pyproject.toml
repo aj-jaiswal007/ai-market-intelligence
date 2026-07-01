@@ -5,7 +5,10 @@ description = "AI Market intelligence Platform Service"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "beautifulsoup4>=4.15.0",
     "fastapi[standard]>=0.138.0",
+    "langchain>=1.3.11",
     "langgraph>=1.2.6",
     "pydantic>=2.13.4",
+    "requests>=2.34.2",
 ]
