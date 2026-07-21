@@ -7,9 +7,9 @@ from app.schemas.writer import FinalReport
 
 
 class WorkflowState(BaseModel):
-    request: ResearchRequest
-    research: ResearchResult
-    analysis: MarketAnalysis
-    fact_check: FastCheckResult
-    critic: CriticResult
-    report: FinalReport
+	request: ResearchRequest
+	research: ResearchResult | None = None
+	analysis: MarketAnalysis | None = None
+	fact_check: FastCheckResult | None = None
+	critic: CriticResult | None = None
+	report: FinalReport | None = None

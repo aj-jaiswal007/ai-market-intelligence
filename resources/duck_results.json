@@ -1,0 +1,196 @@
+{
+    "search_metadata": {
+        "id": "6a5f75600676dc5b93318691",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/o1BTc8BjxjU6TPWM5__MdA/6a5f75600676dc5b93318691.json",
+        "created_at": "2026-07-21 13:34:24 UTC",
+        "processed_at": "2026-07-21 13:34:24 UTC",
+        "duckduckgo_url": "https://duckduckgo.com/?q=Top+competitors+of+Nvidia&kl=us-en",
+        "raw_html_file": "https://serpapi.com/searches/o1BTc8BjxjU6TPWM5__MdA/6a5f75600676dc5b93318691.html",
+        "prettify_html_file": "https://serpapi.com/searches/o1BTc8BjxjU6TPWM5__MdA/6a5f75600676dc5b93318691.prettify",
+        "total_time_taken": 2.84
+    },
+    "search_parameters": {
+        "engine": "duckduckgo",
+        "q": "Top competitors of Nvidia",
+        "kl": "us-en"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "14 Nvidia Competitors & Alternatives [In 2026] - RankRed",
+            "link": "https://www.rankred.com/nvidia-competitors-alternatives/",
+            "date_raw": "2026-01-02T00:00:00.0000000",
+            "date": "Jan 2, 2026",
+            "snippet": "We highlight the top competitors challenging NVIDIA's dominance in areas like AI chips, data centers, gaming GPUs, and autonomous driving technologies.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.rankred.com.ico"
+        },
+        {
+            "position": 2,
+            "title": "Top 10 Nvidia Competitors and Alternatives (2026)",
+            "link": "https://businessmodelanalyst.com/nvidia-competitors/",
+            "date_raw": "2026-05-19T00:00:00.0000000",
+            "date": "May 19, 2026",
+            "snippet": "The top 10 Nvidia competitors include companies like AMD, Intel, Qualcomm, Samsung, and TSMC, each offering alternatives that challenge Nvidia's position in gaming, artificial intelligence, and high-performance computing.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/businessmodelanalyst.com.ico"
+        },
+        {
+            "position": 3,
+            "title": "Nvidia Competitors: How NVDA Stacks Up Against AI Chipmakers | The ...",
+            "link": "https://www.fool.com/investing/how-to-invest/stocks/nvidia-competitors/",
+            "date_raw": "2026-03-17T16:10:00.0000000",
+            "date": "Mar 17, 2026",
+            "snippet": "Nvidia's top competitors Here's a closer look at Nvidia's top five competitors in the AI chip market. ... Data as of Jul 20, 2026. Showing 5 of 5 total entries.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.fool.com.ico"
+        },
+        {
+            "position": 4,
+            "title": "Top NVIDIA (NVDA) Competitors 2026 - MarketBeat",
+            "link": "https://www.marketbeat.com/stocks/NASDAQ/NVDA/competitors-and-alternatives/",
+            "date_raw": "2026-07-20T00:00:00.0000000",
+            "date": "Jul 20, 2026",
+            "snippet": "Is NVIDIA (NASDAQ:NVDA) the best stock in the SEMI - GENERAL industry? Compare NVDA to competitors like AAPL and AMD with MarketBeat's latest data.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.marketbeat.com.ico"
+        },
+        {
+            "position": 5,
+            "title": "Nvidia Competitors 2026: Top Rivals, AI Market Share And Industry Analysis",
+            "link": "https://www.companieshistory.com/nvidia-competitors/",
+            "date_raw": "2026-05-26T00:00:00.0000000",
+            "date": "May 26, 2026",
+            "snippet": "Nvidia competitors in 2026 include AMD, Intel, Broadcom, TSMC, Samsung, and hyperscalers like Google, Amazon, and Microsoft, all competing across AI chips, GPUs ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.companieshistory.com.ico"
+        },
+        {
+            "position": 6,
+            "title": "Top 12 NVIDIA Competitors & Alternatives [2026] - latterly.org",
+            "link": "https://www.latterly.org/nvidia-competitors/",
+            "snippet": "Top 12 NVIDIA Competitors and Alternatives AMD AMD stands out as NVIDIA's most direct rival in both gaming graphics and data center acceleration. The company competes across consumer GPUs, professional graphics, and AI training with a growing footprint in hyperscale deployments.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.latterly.org.ico"
+        },
+        {
+            "position": 7,
+            "title": "Nvidia's Top Competitors & Peers - hudson-labs.com",
+            "link": "https://www.hudson-labs.com/research/nvidias-top-competitors-peers",
+            "date_raw": "2026-02-25T00:00:00.0000000",
+            "date": "Feb 25, 2026",
+            "snippet": "Competitive analysis of Nvidia and comparison to top peers. Comparisons to AMD, Intel, Marvell, Broadcom and more.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.hudson-labs.com.ico"
+        },
+        {
+            "position": 8,
+            "title": "Nvidia dominates the AI chip market, but there's rising competition - CNBC",
+            "link": "https://www.cnbc.com/2024/06/02/nvidia-dominates-the-ai-chip-market-but-theres-rising-competition-.html",
+            "date_raw": "2024-06-02T12:30:00.0000000",
+            "date": "Jun 2, 2024",
+            "snippet": "Nvidia's AI accelerators have between 70% and 95% of the market share for artificial intelligence chips. But there's more competition than ever as startups, cloud companies and other chipmakers ...",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.cnbc.com.ico"
+        },
+        {
+            "position": 9,
+            "title": "Top 10 Nvidia Competitors & Alternatives - Business Strategy Hub",
+            "link": "https://bstrategyhub.com/nvidia-competitors-alternatives/",
+            "date_raw": "2024-09-18T00:00:00.0000000",
+            "date": "Sep 18, 2024",
+            "snippet": "Nvidia is a leading developer of GPUs and semiconductor chips. Who are Nvidia's competitors and alternatives? AMD, Intel, TSMC, Samsung, Qualcomm, read more.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/bstrategyhub.com.ico"
+        },
+        {
+            "position": 10,
+            "title": "Nvidia's AI Dominance Faces Rising Competition From Rivals - Business ...",
+            "link": "https://www.businessinsider.com/nvidia-ai-dominance-rising-competition-from-rivals-2026-3?op=1",
+            "date_raw": "2026-03-14T09:00:00.0000000",
+            "date": "Mar 14, 2026",
+            "snippet": "AI chip competition heats up as Nvidia faces pressure from Google, startups, and China amid evolving AI workloads and geopolitical issues.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.businessinsider.com.ico"
+        },
+        {
+            "position": 11,
+            "title": "Nvidia Competitors: Who Are the AI Chip Alternatives?",
+            "link": "https://www.nerdwallet.com/investing/learn/nvidia-competitors",
+            "date_raw": "2026-02-27T00:00:00.0000000",
+            "date": "Feb 27, 2026",
+            "snippet": "Nvidia dominates the market for the computer chips that power AI, but it isn't a monopoly. Here's a look at publicly-traded Nvidia competitors.",
+            "favicon": "https://external-content.duckduckgo.com/ip3/www.nerdwallet.com.ico"
+        }
+    ],
+    "news_results": [
+        {
+            "position": 1,
+            "title": "Nvidia's New Hedge Against Chip Competitors? Partner with Them",
+            "link": "https://www.theinformation.com/articles/nvidias-new-hedge-chip-competitors-partner",
+            "snippet": "Nvidia has a plan to deal with the growing list of AI server chip competitors: partner with them. In the latest example, Nvidia and AI chip startup d-Matrix are combining their respective hardware in a new system to power AI models,",
+            "source": "The Information",
+            "date": "14 days ago",
+            "thumbnail": "https://www.bing.com/th?id=ONUT.HUOd5s_lQiTJ1td-ZgRjUg&pid=News"
+        },
+        {
+            "position": 2,
+            "title": "Nvidia rises as it looks to partner with competitors; China reportedly allows sales",
+            "link": "https://www.msn.com/en-us/money/markets/nvidia-rises-as-it-looks-to-partner-with-competitors-china-reportedly-allows-sales/ar-AA27tPzh",
+            "snippet": "Nvidia (NVDA) is looking to partner with competitors in the artificial intelligence server chip space, as the Jensen Huang-led company adapts to a new environment, The Information reported. Led by founder and CEO Jensen Huang,",
+            "source": "Seeking Alpha",
+            "date": "13 days ago",
+            "thumbnail": "https://www.bing.com/th?id=ONUT.rHMRZJ2vHwnx21UYfoOH6Q&pid=News"
+        },
+        {
+            "position": 3,
+            "title": "In-Depth Analysis: NVIDIA Versus Competitors In Semiconductors & Semiconductor Equipment Industry",
+            "link": "https://www.benzinga.com/news/26/07/60408027/depth-analysis-nvidia-versus-competitors-semiconductors-amp-semiconductor-equipment-industry",
+            "snippet": "In today's rapidly evolving and fiercely competitive business landscape, it is crucial for investors and industry analysts to conduct comprehensive company evaluations. In this article, we will undert",
+            "source": "Benzinga",
+            "date": "8 days ago",
+            "thumbnail": "https://www.bing.com/th?id=ONUT.QICOxXkY7Z6QKw7HlKaFvw&pid=News"
+        },
+        {
+            "position": 4,
+            "title": "From startups to big tech, Nvidia's rivals are multiplying: can it be dethroned?",
+            "link": "https://www.msn.com/en-us/news/technology/from-startups-to-big-tech-nvidias-rivals-are-multiplying-can-it-be-dethroned/ar-AA27vPsb",
+            "snippet": "The race to challenge Nvidia's dominance in artificial intelligence chips is entering a new chapter, with startups attracting billions of dollars in funding, Big Tech accelerating in-house chip development,",
+            "source": "Invezz",
+            "date": "13 days ago",
+            "thumbnail": "https://www.bing.com/th?id=ONUT.pTwTsr372-KeVmo_uoulYw&pid=News"
+        }
+    ],
+    "news_results_link": "https://duckduckgo.com/?q=Top+competitors+of+Nvidia&kl=us-en&iar=news&ia=news",
+    "related_searches": [
+        {
+            "query": "who is nvidia biggest competitor",
+            "link": "https://duckduckgo.com/?q=who%20is%20nvidia%20biggest%20competitor"
+        },
+        {
+            "query": "who is nvidia's biggest competitor",
+            "link": "https://duckduckgo.com/?q=who%20is%20nvidia%27s%20biggest%20competitor"
+        },
+        {
+            "query": "which companies are nvidia's competitors",
+            "link": "https://duckduckgo.com/?q=which%20companies%20are%20nvidia%27s%20competitors"
+        },
+        {
+            "query": "who is nvidia's major competitor",
+            "link": "https://duckduckgo.com/?q=who%20is%20nvidia%27s%20major%20competitor"
+        },
+        {
+            "query": "closest competitor to nvidia",
+            "link": "https://duckduckgo.com/?q=closest%20competitor%20to%20nvidia"
+        },
+        {
+            "query": "companies that compete with nvidia",
+            "link": "https://duckduckgo.com/?q=companies%20that%20compete%20with%20nvidia"
+        },
+        {
+            "query": "who will compete with nvidia",
+            "link": "https://duckduckgo.com/?q=who%20will%20compete%20with%20nvidia"
+        },
+        {
+            "query": "who are nvidia's main competitors",
+            "link": "https://duckduckgo.com/?q=who%20are%20nvidia%27s%20main%20competitors"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=duckduckgo&kl=us-en&q=Top+competitors+of+Nvidia&start=11"
+    }
+}

@@ -1,9 +1,12 @@
-class Singleton:
-    _instances = {}
+from abc import ABCMeta
 
-    def __call__(cls, *args, **kawrgs):
-        if cls not in cls._instances:
-            instance = super().__call__(*args, **kawrgs)
-            cls._instances[cls] = instance
 
-        return cls._instances[cls]
+class Singleton(ABCMeta):
+	_instances = {}
+
+	def __call__(cls, *args, **kawrgs):
+		if cls not in cls._instances:
+			instance = super().__call__(*args, **kawrgs)
+			cls._instances[cls] = instance
+
+		return cls._instances[cls]
