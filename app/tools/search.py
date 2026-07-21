@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 
 @tool
-async def search_web(query: str) -> SearchResponse:
+async def search_web(query: str) -> str:
 	"""Searches the web for the given query and returns the results.
 
 	Args:
@@ -19,4 +19,4 @@ async def search_web(query: str) -> SearchResponse:
 	logger.info(f"Searching web for query: {query}")
 	response = SearchClientFactory.get_client().search(query)
 	logger.info(f"Got {len(response.results)} responses")
-	return response
+	return response.format_results()

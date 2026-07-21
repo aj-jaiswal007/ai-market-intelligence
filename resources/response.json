@@ -1,0 +1,66 @@
+{
+    "competitors": [
+        {
+            "name": "Asus TUF Gaming A14",
+            "website": "https://www.asus.com/",
+            "description": "A compact, performance-driven gaming laptop that balances portability and durability, making it suitable for both engineering coursework (CAD) and gaming.",
+            "target_customers": [
+                "Engineering students",
+                "Gamers",
+                "Students needing portability"
+            ],
+            "pricing_model": "Retail",
+            "features": [
+                "Nvidia GeForce RTX 4060 GPU",
+                "AMD Ryzen 7 8845HS CPU",
+                "14-inch 165Hz IPS display",
+                "High battery life for a gaming laptop (approx. 10 hours)"
+            ],
+            "recent_news": [],
+            "sources": [
+                "https://www.laptopmag.com/laptops/best-student-laptop"
+            ]
+        },
+        {
+            "name": "Asus Vivobook 16 Flip",
+            "website": "https://www.asus.com/",
+            "description": "A versatile 2-in-1 laptop that offers solid all-around performance, an excellent OLED display, and decent integrated gaming capabilities.",
+            "target_customers": [
+                "Students wanting versatility",
+                "Students needing productivity and light gaming"
+            ],
+            "pricing_model": "Retail",
+            "features": [
+                "2-in-1 convertible design",
+                "OLED touchscreen display",
+                "Intel Core Ultra 7 258V",
+                "Good integrated graphics performance"
+            ],
+            "recent_news": [],
+            "sources": [
+                "https://www.laptopmag.com/laptops/best-student-laptop"
+            ]
+        },
+        {
+            "name": "Lenovo Legion 5 15 (15AHP Gen 10)",
+            "website": "https://www.lenovo.com/",
+            "description": "A highly-regarded mid-range gaming laptop offering strong performance, a comfortable keyboard, and an excellent OLED panel.",
+            "target_customers": [
+                "Students",
+                "Gamers",
+                "Users seeking maintenance/upgrade options"
+            ],
+            "pricing_model": "Retail",
+            "features": [
+                "Nvidia GeForce RTX 5060 GPU",
+                "165Hz OLED panel",
+                "AMD Zen 5 / Zen 4 processors",
+                "Solid port selection and upgradeability"
+            ],
+            "recent_news": [],
+            "sources": [
+                "https://www.notebookcheck.net/Ranking-Best-thin-and-light-gaming-laptops.126456.0.html"
+            ]
+        }
+    ]
+}

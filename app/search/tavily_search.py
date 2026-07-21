@@ -11,4 +11,4 @@ class TavilySearch(SearchClient, metaclass=Singleton):
 
 	def search(self, query: str) -> SearchResponse:
 		response = self._client.search(query=query, search_depth="advanced")
-		return SearchResponse.model_validate({"results": response})
+		return SearchResponse.model_validate({"results": response["results"]})

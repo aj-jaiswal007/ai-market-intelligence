@@ -14,7 +14,7 @@ class Competitors(BaseModel):
 	pricing_model: str | None = Field(..., description="pricing model")
 	features: list[str] = Field(..., description="company features")
 	recent_news: list[str] = Field(..., description="any recent news of the company which can be considered alarming")
-	sources: list[str] = Field(..., description="sources of the information")
+	sources: list[str] = Field(..., description="sources of the information as URL list")
 
 
 class ResearchResult(BaseModel):

@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 
 @tool
-async def scrape_webpage(url: str) -> str:
+async def scrape_content(url: str) -> str:
 	"""Fetches the webpage content and returns a clean text for the page
 
 	Args:
@@ -30,4 +30,5 @@ async def scrape_webpage(url: str) -> str:
 		element.decompose()
 
 	# 3. Extract the clean text
-	return body.get_text(separator="\n", strip=True)
+	content = body.get_text(separator="\n", strip=True)
+	return f"Webpage Content: {content}"
